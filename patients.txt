@@ -1,0 +1,4 @@
+Hospital Triage Records
+Sita, Age: 20, Severity: 5
+Ravi, Age: 25, Severity: 3
+Ram, Age: 30, Severity: 2
